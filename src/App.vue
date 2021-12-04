@@ -6,7 +6,7 @@
     Dragpon Ball Z
   </h1>
 
-  <form class="flex justify-center">
+  <form class="flex justify-center flex-wrap">
     <div class="flex border-4 border-blue-500 rounded-lg mr-5 overflow-hidden">
       <span class="text-sm text-white px-4 py-2 bg-blue-500 whitespace-no-wrap"
         >Nome:</span
