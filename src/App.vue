@@ -67,7 +67,7 @@ export default {
   },
   methods: {
     async buscarTodosPersonagens() {
-      //requisição GET para API
+      //requisição GET para A API
       const resp = await axios.get(import.meta.env.VITE_APP_API_URL + "/personagens");
       this.personagens = resp.data;
     },
